@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\funnelproject\atom\atom\atom\源.cpp(85,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\funnelproject\atom\atom\atom\源.cpp(278,42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\funnelproject\atom\atom\atom\源.cpp(283,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  atom.vcxproj -> D:\funnelproject\atom\atom\x64\Debug\atom.exe
